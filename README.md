@@ -11,3 +11,33 @@
 </p>
 
 <!-- Остальной контент вашего профиля -->
+## 🌐 Мои ресурсы
+
+<table align="center">
+  <tr>
+    <td align="center" width="300" style="padding: 20px;">
+      <a href="https://kododrive.ru/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2098/2098402.png" width="70" alt="Blog Icon"><br>
+        <strong style="font-size: 1.3rem; color: #6a11cb;">Мой блог</strong><br>
+        <span>Статьи и руководства по разработке</span><br>
+        <code style="color: #2575fc; font-size: 0.9rem;">kododrive.ru</code>
+      </a>
+    </td>
+    <td align="center" width="300" style="padding: 20px;">
+      <a href="https://t.me/KodoDrive_Studio_Bot" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="70" alt="Store Icon"><br>
+        <strong style="font-size: 1.3rem; color: #25d366;">KodoDrive Studio</strong><br>
+        <span>Магазин скриптов в Telegram</span><br>
+        <code style="color: #128c7e; font-size: 0.9rem;">t.me/KodoDrive_Studio_Bot</code>
+      </a>
+    </td>
+    <td align="center" width="300" style="padding: 20px;">
+      <a href="https://yookassa.ru/my/i/aJ0ghjD_LfcC/l" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/1067/1067599.png" width="70" alt="Donate Icon"><br>
+        <strong style="font-size: 1.3rem; color: #ff6b6b;">Поддержать проект</strong><br>
+        <span>Донат через ЮКассу</span><br>
+        <code style="color: #ff8e53; font-size: 0.9rem;">yookassa.ru</code>
+      </a>
+    </td>
+  </tr>
+</table>
