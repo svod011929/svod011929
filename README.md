@@ -25,7 +25,7 @@
       </a>
     </td>
     <td align="center" width="300" style="padding: 20px;">
-      <a href="https://t.me/KodoDrive_Studio_Bot" target="_blank">
+      <a href="https://t.me/KodoDriveStudio_bot" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="70" alt="Store Icon"><br>
         <strong style="font-size: 1.3rem; color: #25d366;">KodoDrive Studio</strong><br>
         <span>Магазин скриптов в Telegram</span><br>
