@@ -23,32 +23,23 @@
 <!-- Анимированная неоновая линия -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- О себе с кодом и анимацией -->
+<!-- О себе с метриками -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
 </h2>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+KodoDrive+👋;A+Passionate+Python+Developer+from+Russia;5%2B+years+of+coding+experience;Always+learning+new+technologies!" alt="Typing SVG" />
+</p>
 
-```python
-class KodoDrive:
-    def __init__(self):
-        self.name = "KodoDrive"
-        self.role = "Python Developer"
-        self.languages = ["Python", "JavaScript", "SQL"]
-        self.tools = ["Django", "FastAPI", "Docker", "PostgreSQL"]
-        self.current_focus = "Building automation solutions"
-        
-    def say_hi(self):
-        print("Thanks for dropping by!")
-        print("Let's build something amazing together!")
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svod011929&theme=radical" width="90%" />
+</div>
 
-me = KodoDrive()
-me.say_hi()
-  ```
-
-
-<br clear="both">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svod011929&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svod011929&theme=radical" width="45%" />
+</div>
 
 <!-- Технологии с анимированными иконками -->
 <h2 align="center">
