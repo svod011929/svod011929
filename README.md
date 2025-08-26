@@ -123,13 +123,38 @@
   </table>
 </div>
 
-<!-- Трофеи GitHub -->
+<!-- Мои топ проекты -->
 <h2 align="center">
-  🏆 GitHub Trophies
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=svod011929&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" />
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/svod011929/vpn-xray-shop">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=svod011929&repo=vpn-xray-shop&theme=radical&bg_color=0D1117&border_color=7B68EE&title_color=F85D7F&icon_color=F8D866" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/svod011929/kododrive-portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=svod011929&repo=kododrive-portfolio&theme=radical&bg_color=0D1117&border_color=7B68EE&title_color=F85D7F&icon_color=F8D866" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/svod011929/KDS_Server_Panel">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=svod011929&repo=KDS_Server_Panel&theme=radical&bg_color=0D1117&border_color=7B68EE&title_color=F85D7F&icon_color=F8D866" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/svod011929/kds_parser_cryptobot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=svod011929&repo=kds_parser_cryptobot&theme=radical&bg_color=0D1117&border_color=7B68EE&title_color=F85D7F&icon_color=F8D866" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Неоновый разделитель -->
