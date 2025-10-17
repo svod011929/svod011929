@@ -1,26 +1,16 @@
-<div align="center">
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> KodoDrive
+# KodoDrive
 
 ### Python Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=3B82F6&background=FFFFFF00&center=true&vCenter=true&width=600&lines=class+KodoDrive%3A;++++def+__init__(self)%3A;++++++++self.role+%3D+%22Python+Developer%22;++++++++self.passion+%3D+%22Web+Applications%22;++++++++self.stack+%3D+%5B%22Django%22%2C+%22React%22%5D" alt="Typing SVG" />
+![Profile Views](https://komarev.com/ghpvc/?username=svod011929&color=blueviolet&style=for-the-badge)
 
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> About Me
-
-</div>
+## About Me
 
 ```python
 class KodoDrive:
     def __init__(self):
         self.name = "KodoDrive"
-        self.role = "Python Full Stack Developer" 
+        self.role = "Python Full Stack Developer"
         self.experience = "5+ years"
         self.location = "Russia"
         self.passion = "Creating scalable web applications"
@@ -37,115 +27,81 @@ class KodoDrive:
     def current_focus(self):
         return [
             "🔐 VPN Services Development",
-            "🖥️ Server Management Systems", 
+            "🖥️ Server Management Systems",
             "💰 Crypto & Telegram Automation",
             "⚡ High-Performance Web Apps"
         ]
 ```
 
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Featured Projects
-
-</div>
-
-<div align="center">
+## Featured Projects
 
 | 🔐 **BuryatVPN** | 🖥️ **KDS Server Panel** | 💰 **CryptoBot Parser** |
-|:---:|:---:|:---:|
-| Modern VPN service with<br>Telegram bot & admin panel | Powerful SSH server management<br>through Telegram interface | Automated Telegram checks<br>parser with OCR recognition |
-| `Python` `Aiogram` `Flask`<br>`PostgreSQL` `Docker` | `Python` `AsyncSSH` `Aiohttp`<br>`PostgreSQL` `Docker` | `Python` `Telethon` `OCR API`<br>`Asyncio` `Regex` |
-| [View Repository](https://github.com/svod011929/buryatvpn) | [View Repository](https://github.com/svod011929/KDS_Server_Panel) | [View Repository](https://github.com/svod011929/kds_parser_cryptobot) |
+|:---|:---|:---|
+| Modern VPN service with Telegram bot & admin panel | Powerful SSH server management through Telegram interface | Automated Telegram checks parser with OCR recognition |
+| **Stack:** Python, Aiogram, Flask, PostgreSQL, Docker | **Stack:** Python, AsyncSSH, Aiohttp, PostgreSQL, Docker | **Stack:** Python, Telethon, OCR API, Asyncio, Regex |
+| [View Repository →](https://github.com/svod011929/buryatvpn) | [View Repository →](https://github.com/svod011929/kds-server-panel) | [View Repository →](https://github.com/svod011929/cryptobot-parser) |
 
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
-
-</div>
-
-<div align="center">
+## Tech Stack
 
 ### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3B82F6)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=8B5CF6)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&color=00D9FF)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=3B82F6)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Frontend Development  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=8B5CF6)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=3B82F6)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=00D9FF)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&color=8B5CF6)
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Database & DevOps
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=3B82F6)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&color=00D9FF)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=8B5CF6)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=3B82F6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Specialized Tools
-![Aiogram](https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&color=00D9FF)
-![Telethon](https://img.shields.io/badge/Telethon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&color=8B5CF6)
-![AsyncSSH](https://img.shields.io/badge/AsyncSSH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&color=3B82F6)
+![Aiogram](https://img.shields.io/badge/Aiogram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)
+![AsyncSSH](https://img.shields.io/badge/AsyncSSH-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Telethon](https://img.shields.io/badge/Telethon-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)
 
-</div>
+## GitHub Analytics
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svod011929&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svod011929&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svod011929&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Analytics
+## Let's Connect
 
-</div>
-
-<div align="center">
-
-![KodoDrive's GitHub stats](https://github-readme-stats.vercel.app/api?username=svod011929&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=C9D1D9&border_color=00D9FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svod011929&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&border_color=00D9FF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=svod011929&theme=tokyonight&background=0D1117&border=00D9FF&stroke=3B82F6&ring=8B5CF6&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B5CF6&sideLabels=3B82F6&dates=C9D1D9)
-
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Contact" width="25" height="25" /> Let's Connect
-
-</div>
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-kododrive.ru-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kododrive.ru)
-[![Email](https://img.shields.io/badge/Email-hello@kododrive.ru-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kododrive.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-@kododrive-00D9FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kododrive)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KodoDrive-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kododrive)
-
-</div>
+<p align="center">
+  <a href="https://t.me/your_telegram">
+    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+### 💼 Ready for new challenges!
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="25" height="25" /> Ready for new challenges!
+**Looking for an experienced Python developer?** Let's discuss how I can help bring your ideas to life.
 
-**Looking for an experienced Python developer?**<br>
-Let's discuss how I can help bring your ideas to life.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=3000&color=8B5CF6&background=FFFFFF00&center=true&vCenter=true&width=500&lines=%23+Coding+with+passion+since+2020+%F0%9F%90%8D;%23+Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1" alt="Footer Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=svod011929&color=3B82F6&style=for-the-badge&label=Profile+Views)
-
-</div>
+<p align="center">
+  <a href="https://t.me/your_telegram">
+    <img src="https://img.shields.io/badge/Contact_me-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact"/>
+  </a>
+</p>
