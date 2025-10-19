@@ -25,7 +25,7 @@
 
 ## 🌟 About Me
 
-```python
+
 class KodoDrive:
     def __init__(self):
         self.name = "KodoDrive"
@@ -51,7 +51,7 @@ class KodoDrive:
             "📚 Learn new technologies",
             "🚀 Deploy to production"
         ]
-```
+
 
 <br>
 
