@@ -23,34 +23,6 @@
 
 ---
 
-## 🌟 About Me
-<div align="center">
-class KodoDrive:
-    def __init__(self):
-        self.name = "KodoDrive"
-        self.role = "Python Full Stack Developer"
-        self.location = "🇷🇺 Russia"
-        self.experience = "5+ years"
-        self.passion = "Creating scalable and high-performance web applications"
-        self.website = "https://kododrive.ru"        
-    def get_current_focus(self):
-        return {
-            "🔐 VPN Services": "Modern VPN solutions with Telegram integration",
-            "🖥️ Server Management": "SSH-based server control systems",
-            "💰 Crypto Automation": "Telegram bot parsers with OCR",
-            "⚡ Performance": "High-speed async web applications"
-        }    
-    def get_daily_routine(self):
-        return [
-            "☕ Coffee + Code",
-            "🔨 Build amazing features",
-            "🐛 Squash bugs",
-            "📚 Learn new technologies",
-            "🚀 Deploy to production"
-        ]
-</div>
-<br>
-
 <div align="center">
 
 ## 🛠️ Tech Stack
