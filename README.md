@@ -72,22 +72,22 @@ Remote SSH operations, file management and system administration through a compa
 <tr>
 <td width="50%" valign="top">
 
-### [CryptoBot Parser](https://github.com/svod011929/kds_parser_cryptobot)
-**High-speed Telegram automation**
+### [Telegram to VK Poster](https://github.com/svod011929/telegram-to-vk-poster)
+**Reliable cross-platform publishing automation**
 
-Automated crypto-check parsing with OCR recognition, asynchronous processing and message analysis.
+A focused service that republishes Telegram channel content to VK with state tracking, media support and hardened systemd deployment.
 
-`Python` `Telethon` `Asyncio` `OCR` `Regex`
+`Python` `Telethon` `VK API` `Systemd` `Linux`
 
 </td>
 <td width="50%" valign="top">
 
-### [KodoDrive Portfolio](https://github.com/svod011929/svod011929.github.io)
-**Personal developer portfolio**
+### [3X-UI Auto Installer](https://github.com/svod011929/3x-ui-auto-installer)
+**VPN infrastructure automation**
 
-A responsive portfolio focused on projects, services and a modern developer-first visual identity.
+Automated deployment and system tuning for 3X-UI and VLESS Reality environments on Linux servers.
 
-`HTML` `CSS` `JavaScript` `Responsive UI`
+`Bash` `Linux` `3X-UI` `VLESS` `UFW`
 
 </td>
 </tr>
