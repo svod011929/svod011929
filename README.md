@@ -20,7 +20,7 @@
 
 <div align="center">
 <a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:hello@"><img src="https://img.shields.io/badge/Email-hello@-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:hello@kododrive.ru"><img src="https://img.shields.io/badge/Email-hello@kododrive.ru-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=svod011929&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=7C3AED&style=flat-square" alt="views" />
 </div>
 
