@@ -68,50 +68,30 @@ $ cat mission.txt
 
 ## 🚀 Избранные проекты
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛰️ <a href="https://github.com/svod011929/buryatvpn">BuryatVPN</a></h3>
-      <p><b>VPN-сервис + экосистема Telegram</b></p>
-      <p>Пользователи, админка, интеграции и автоматизация инфраструктуры.</p>
-      <p>
-        <code>Python</code> <code>Aiogram</code> <code>Flask</code> <code>PostgreSQL</code> <code>Docker</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/svod011929/KDS_Server_Panel">KDS Server Panel</a></h3>
-      <p><b>Сервер из Telegram</b></p>
-      <p>SSH, файлы и администрирование через компактный бот-интерфейс.</p>
-      <p>
-        <code>Python</code> <code>AsyncSSH</code> <code>Aiohttp</code> <code>PostgreSQL</code> <code>Docker</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔁 <a href="https://github.com/svod011929/telegram-to-vk-poster">Telegram → VK Poster</a></h3>
-      <p><b>Кросс-платформенная публикация</b></p>
-      <p>Репаблиш из Telegram во VK: медиа, состояние, systemd-деплой.</p>
-      <p>
-        <code>Python</code> <code>Telethon</code> <code>VK API</code> <code>Systemd</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/svod011929/3x-ui-auto-installer">3X-UI Auto Installer</a></h3>
-      <p><b>VPN-инфра одной командой</b></p>
-      <p>Авторазвёртывание 3X-UI + VLESS Reality и тюнинг Linux.</p>
-      <p>
-        <code>Bash</code> <code>Linux</code> <code>3X-UI</code> <code>VLESS</code> <code>UFW</code>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/svod011929/buryatvpn">
+    <img src="./assets/project-buryatvpn.svg" alt="BuryatVPN" width="48%" />
+  </a>
+  <a href="https://github.com/svod011929/KDS_Server_Panel">
+    <img src="./assets/project-KDS_Server_Panel.svg" alt="KDS Server Panel" width="48%" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/svod011929/telegram-to-vk-poster">
+    <img src="./assets/project-telegram-to-vk-poster.svg" alt="Telegram to VK Poster" width="48%" />
+  </a>
+  <a href="https://github.com/svod011929/3x-ui-auto-installer">
+    <img src="./assets/project-3x-ui-auto-installer.svg" alt="3X-UI Auto Installer" width="48%" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/svod011929?tab=repositories">
     <img src="https://img.shields.io/badge/%D0%92%D1%81%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
   </a>
 </p>
+
 
 ---
 
