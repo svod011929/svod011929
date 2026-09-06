@@ -139,54 +139,66 @@
 
 <!-- kododrive-projects-block -->
 
-## 🗂️ Все проекты KodoDrive
+## 🗂️ Все проекты
 
 <div align="center">
-  <img src="./assets/catalog.svg" width="100%" alt="catalog" />
+  <img src="./assets/catalog-header.svg" width="100%" alt="catalog header" />
 </div>
 
-<details>
-<summary><b>VPN и инфраструктура</b></summary>
+### VPN и инфраструктура
 
-- [BuryatVPN — VPN-сервис + Telegram](https://github.com/svod011929/buryatvpn)
-- [VPN Server Installer — VLESS + TLS](https://github.com/svod011929/vpn-server-installer)
-- [3X-UI Auto Installer](https://github.com/svod011929/3x-ui-auto-installer)
-- [AWG Bot Installer — AmneziaWG](https://github.com/svod011929/awg-bot-installer)
-- [RemnaShop Installer](https://github.com/svod011929/remnashop-installer)
-- [VPN Auto Installer — панели](https://github.com/svod011929/vpn-auto-installer)
-- [VPNHubBot — Telegram VPN-бот](https://github.com/svod011929/VPNHubBot)
+<div align="center">
+  <img src="./assets/cat-vpn.svg" width="100%" alt="vpn" />
+</div>
 
-</details>
+<p align="center">
+<a href="https://github.com/svod011929/buryatvpn">BuryatVPN</a> ·
+<a href="https://github.com/svod011929/vpn-server-installer">VPN Server Installer</a> ·
+<a href="https://github.com/svod011929/3x-ui-auto-installer">3X-UI</a> ·
+<a href="https://github.com/svod011929/awg-bot-installer">AWG</a> ·
+<a href="https://github.com/svod011929/remnashop-installer">RemnaShop</a> ·
+<a href="https://github.com/svod011929/vpn-auto-installer">VPN Auto</a> ·
+<a href="https://github.com/svod011929/VPNHubBot">VPNHubBot</a>
+</p>
 
-<details>
-<summary><b>Telegram и автоматизация</b></summary>
+### Telegram и автоматизация
 
-- [KDS Server Panel — SSH из Telegram](https://github.com/svod011929/KDS_Server_Panel)
-- [Telegram → VK Poster](https://github.com/svod011929/telegram-to-vk-poster)
-- [KDS Parser CryptoBot](https://github.com/svod011929/kds_parser_cryptobot)
-- [Auction Bot](https://github.com/svod011929/auction-bot)
-- [Invest Bot](https://github.com/svod011929/invest-bot)
-- [Crypto Check Bot](https://github.com/svod011929/crypto-check-bot)
-- [KodoRefStarsBot](https://github.com/svod011929/KodoRefStarsBot)
+<div align="center">
+  <img src="./assets/cat-bots.svg" width="100%" alt="bots" />
+</div>
 
-</details>
+<p align="center">
+<a href="https://github.com/svod011929/KDS_Server_Panel">KDS Server Panel</a> ·
+<a href="https://github.com/svod011929/telegram-to-vk-poster">TG→VK</a> ·
+<a href="https://github.com/svod011929/kds_parser_cryptobot">CryptoBot parser</a> ·
+<a href="https://github.com/svod011929/auction-bot">Auction</a> ·
+<a href="https://github.com/svod011929/invest-bot">Invest</a> ·
+<a href="https://github.com/svod011929/crypto-check-bot">Crypto Check</a> ·
+<a href="https://github.com/svod011929/KodoRefStarsBot">RefStars</a>
+</p>
 
-<details>
-<summary><b>Магазины и финансы</b></summary>
+### Магазины и финансы
 
-- [KodoCashFlow](https://github.com/svod011929/KodoCashFlow)
-- [Telegram Crypto Shop](https://github.com/svod011929/telegram-crypto-shop)
-- [TalkProfit](https://github.com/svod011929/talkprofit)
+<div align="center">
+  <img src="./assets/cat-finance.svg" width="100%" alt="finance" />
+</div>
 
-</details>
+<p align="center">
+<a href="https://github.com/svod011929/KodoCashFlow">KodoCashFlow</a> ·
+<a href="https://github.com/svod011929/telegram-crypto-shop">Crypto Shop</a> ·
+<a href="https://github.com/svod011929/talkprofit">TalkProfit</a>
+</p>
 
-<details>
-<summary><b>Сайты</b></summary>
+### Сайты
 
-- [KodoDrive Portfolio](https://github.com/svod011929/kododrive-portfolio)
-- [kododrive.github.io](https://github.com/svod011929/kododrive.github.io)
+<div align="center">
+  <img src="./assets/cat-sites.svg" width="100%" alt="sites" />
+</div>
 
-</details>
+<p align="center">
+<a href="https://github.com/svod011929/kododrive-portfolio">Portfolio</a> ·
+<a href="https://github.com/svod011929/kododrive.github.io">GitHub Pages</a>
+</p>
 
 <!-- /kododrive-projects-block -->
 
