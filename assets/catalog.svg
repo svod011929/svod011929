@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="280" rx="16" fill="url(#bg)" stroke="#30363D"/>
+  <rect x="0" y="0" width="900" height="4" fill="url(#line)"/>
+  <text x="36" y="48" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#E6EDF3">Все проекты KodoDrive</text>
+  <text x="36" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E">полный каталог активных репозиториев · кликай категории ниже</text>
+
+  <!-- category pills -->
+  <rect x="36" y="110" width="200" height="44" rx="10" fill="#0B1220" stroke="#38BDF8"/>
+  <text x="136" y="138" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#38BDF8">VPN · инфра</text>
+
+  <rect x="252" y="110" width="240" height="44" rx="10" fill="#0B1220" stroke="#26A5E4"/>
+  <text x="372" y="138" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#26A5E4">Telegram · автоматизация</text>
+
+  <rect x="508" y="110" width="170" height="44" rx="10" fill="#0B1220" stroke="#34D399"/>
+  <text x="593" y="138" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#34D399">Магазины · финансы</text>
+
+  <rect x="694" y="110" width="120" height="44" rx="10" fill="#0B1220" stroke="#F472B6"/>
+  <text x="754" y="138" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#F472B6">Сайты</text>
+
+  <text x="36" y="200" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#6E7681">profile  @svod011929</text>
+  <text x="36" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#6E7681">telegram @KodoDrive</text>
+  <text x="36" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#6E7681">email    hello@kododrive.ru</text>
+</svg>
