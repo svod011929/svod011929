@@ -1,128 +1,161 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=KodoDrive&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Python%20Full-Stack%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%E2%80%A2%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%E2%80%A2%20%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0&descSize=17&descAlignY=57" alt="KodoDrive header" />
-
-### Надёжные продукты, автоматизация и инфраструктура на Python
-
-Делаю production-ready **backend-сервисы**, **Telegram-ботов**, **VPN-инфраструктуру** и **инструменты для разработчиков**.
-Фокус на чистой архитектуре, автоматизации и системах, которые удобно сопровождать и масштабировать.
-
-<p>
-  <a href="https://kododrive.ru"><img src="https://img.shields.io/badge/Website-kododrive.ru-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Telegram-@KodoDrive-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:hello@kododrive.ru"><img src="https://img.shields.io/badge/Email-hello@kododrive.ru-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=svod011929&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
-</p>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1E3A8A,70:7C3AED,100:06B6D4&height=220&section=header&text=KodoDrive&fontSize=58&fontColor=E0F2FE&animation=twinkling&fontAlignY=35&desc=%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B%20%E2%80%A2%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%E2%80%A2%20%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0&descSize=16&descAlignY=58&descColor=A5B4FC" alt="KodoDrive" />
 </div>
 
----
-
-## Обо мне
-
-- **5+ лет** в продуктах и автоматизации на Python
-- Backend API на **FastAPI, Django и Flask**
-- Telegram-экосистемы на **Aiogram и Telethon**
-- Автоматизация инфраструктуры: **Linux, Docker, Nginx, SSH и VPN-стеки**
-- Базы данных и кэш: **PostgreSQL, Redis и MongoDB**
-- Frontend: **React, TypeScript и современный CSS**
-
-## Основной стек
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,mongodb,docker,linux,nginx,git,bash,ts,react,html,css&perline=8" alt="Tech stack" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=70&lines=%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%BD+Python+Full-Stack;%D0%91%D0%BE%D1%82%D1%8B%2C+API%2C+VPN+%D0%B8+DevOps-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F;%D0%A1%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%8E+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%2C+%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5+%D0%B6%D0%B8%D0%B2%D1%83%D1%82+%D0%B2+%D0%BF%D1%80%D0%BE%D0%B4%D0%B5" alt="Typing" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Aiogram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram" />
-  <img src="https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telethon" />
-  <img src="https://img.shields.io/badge/AsyncSSH-111827?style=flat-square&logo=openssh&logoColor=white" alt="AsyncSSH" />
-  <img src="https://img.shields.io/badge/VPN%20Infrastructure-2563EB?style=flat-square&logo=wireguard&logoColor=white" alt="VPN infrastructure" />
+  <img src="https://img.shields.io/badge/%D0%A1%D1%82%D0%B5%D0%BA-Python%20%7C%20FastAPI%20%7C%20Aiogram-0F172A?style=for-the-badge&labelColor=7C3AED" alt="stack" />
+  <img src="https://img.shields.io/badge/%D0%A4%D0%BE%D0%BA%D1%83%D1%81-Automation%20%2B%20Infra-0F172A?style=for-the-badge&labelColor=2563EB" alt="focus" />
+  <img src="https://img.shields.io/badge/%D0%9E%D0%BF%D1%8B%D1%82-5%2B%20%D0%BB%D0%B5%D1%82-0F172A?style=for-the-badge&labelColor=06B6D4" alt="exp" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://kododrive.ru"><img src="https://img.shields.io/badge/Website-kododrive.ru-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:hello@kododrive.ru"><img src="https://img.shields.io/badge/Email-hello@kododrive.ru-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=svod011929&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=7C3AED&style=flat-square" alt="views" />
 </div>
 
 ---
 
-## Избранные проекты
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Hi" width="28" /> Привет, я KodoDrive
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Делаю **production-ready** backend, Telegram-экосистемы и VPN/серверную инфраструктуру.  
+Люблю чистую архитектуру, автоматизацию и системы, которые не разваливаются в 3 ночи.
 
-### [BuryatVPN](https://github.com/svod011929/buryatvpn)
-**VPN-сервис + экосистема Telegram**
+```bash
+$ whoami
+> Python Full-Stack · Automation · Infrastructure
 
-Управление пользователями, интеграция с Telegram, админ-инструменты и автоматизация инфраструктуры для современного VPN-сервиса.
-
-`Python` `Aiogram` `Flask` `PostgreSQL` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [KDS Server Panel](https://github.com/svod011929/KDS_Server_Panel)
-**Управление сервером из Telegram**
-
-Удалённые SSH-операции, работа с файлами и системное администрирование через компактный Telegram-интерфейс.
-
-`Python` `AsyncSSH` `Aiohttp` `PostgreSQL` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Telegram to VK Poster](https://github.com/svod011929/telegram-to-vk-poster)
-**Надёжная кросс-платформенная публикация**
-
-Сервис, который републикует контент Telegram-канала во VK: учёт состояния, поддержка медиа и устойчивый деплой через systemd.
-
-`Python` `Telethon` `VK API` `Systemd` `Linux`
-
-</td>
-<td width="50%" valign="top">
-
-### [3X-UI Auto Installer](https://github.com/svod011929/3x-ui-auto-installer)
-**Автоматизация VPN-инфраструктуры**
-
-Автоматическое развёртывание и тюнинг системы для 3X-UI и VLESS Reality на Linux-серверах.
-
-`Bash` `Linux` `3X-UI` `VLESS` `UFW`
-
-</td>
-</tr>
-</table>
-
----
-
-## Что я делаю
-
-```text
-Backend       API, сервисы, интеграции, админ-системы
-Automation    Telegram-боты, парсеры, воркфлоу, фоновые задачи
-Infra         VPN-сервисы, Linux-серверы, SSH-автоматизация, Docker
-Data          PostgreSQL, Redis, MongoDB, внешние API
-Frontend      React, TypeScript, адаптивные интерфейсы
+$ cat mission.txt
+> Строить полезные продукты быстро, надёжно и без лишнего шума
 ```
 
+### Чем занимаюсь
+- Backend API на **FastAPI / Django / Flask**
+- Telegram на **Aiogram / Telethon**
+- Инфра: **Linux, Docker, Nginx, SSH, VPN (VLESS / Reality / Amnezia)**
+- Данные: **PostgreSQL, Redis, MongoDB**
+- Frontend: **React + TypeScript**
+
 ---
 
-## GitHub
+## <img src="https://skillicons.dev/icons?i=python" width="28" /> Стек
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=svod011929&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&title_color=3B82F6&icon_color=7C3AED&text_color=8B949E" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svod011929&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6&text_color=8B949E&langs_count=8" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,mongodb,docker,linux,nginx,git,bash,ts,react,html,css&perline=8" alt="stack" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telethon-0EA5E9?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/AsyncSSH-111827?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard%20%2F%20VLESS-7C3AED?style=for-the-badge&logo=wireguard&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Избранные проекты
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ <a href="https://github.com/svod011929/buryatvpn">BuryatVPN</a></h3>
+      <p><b>VPN-сервис + экосистема Telegram</b></p>
+      <p>Пользователи, админка, интеграции и автоматизация инфраструктуры.</p>
+      <p>
+        <code>Python</code> <code>Aiogram</code> <code>Flask</code> <code>PostgreSQL</code> <code>Docker</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/svod011929/KDS_Server_Panel">KDS Server Panel</a></h3>
+      <p><b>Сервер из Telegram</b></p>
+      <p>SSH, файлы и администрирование через компактный бот-интерфейс.</p>
+      <p>
+        <code>Python</code> <code>AsyncSSH</code> <code>Aiohttp</code> <code>PostgreSQL</code> <code>Docker</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔁 <a href="https://github.com/svod011929/telegram-to-vk-poster">Telegram → VK Poster</a></h3>
+      <p><b>Кросс-платформенная публикация</b></p>
+      <p>Репаблиш из Telegram во VK: медиа, состояние, systemd-деплой.</p>
+      <p>
+        <code>Python</code> <code>Telethon</code> <code>VK API</code> <code>Systemd</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/svod011929/3x-ui-auto-installer">3X-UI Auto Installer</a></h3>
+      <p><b>VPN-инфра одной командой</b></p>
+      <p>Авторазвёртывание 3X-UI + VLESS Reality и тюнинг Linux.</p>
+      <p>
+        <code>Bash</code> <code>Linux</code> <code>3X-UI</code> <code>VLESS</code> <code>UFW</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/svod011929?tab=repositories">
+    <img src="https://img.shields.io/badge/%D0%92%D1%81%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=svod011929&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&ring_color=7C3AED" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svod011929&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&langs_count=8" alt="langs" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svod011929&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=67E8F9" alt="streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=svod011929&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svod011929&bg_color=0d1117&color=67e8f9&line=a78bfa&point=06b6d4&area=true&hide_border=true" alt="activity" width="100%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svod011929/svod011929/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/svod011929/svod011929/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/svod011929/svod011929/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
 
 <!-- kododrive-projects-block -->
 
-## Проекты KodoDrive
+## 🗂️ Все проекты KodoDrive
 
-Другие проекты автора: [профиль @svod011929](https://github.com/svod011929) · [сайт](https://kododrive.ru) · [Telegram](https://t.me/KodoDrive)
-
-### VPN и инфраструктура
+<details>
+<summary><b>VPN и инфраструктура</b></summary>
 
 - [BuryatVPN — VPN-сервис + Telegram](https://github.com/svod011929/buryatvpn)
 - [VPN Server Installer — VLESS + TLS](https://github.com/svod011929/vpn-server-installer)
@@ -132,7 +165,10 @@ Frontend      React, TypeScript, адаптивные интерфейсы
 - [VPN Auto Installer — панели](https://github.com/svod011929/vpn-auto-installer)
 - [VPNHubBot — Telegram VPN-бот](https://github.com/svod011929/VPNHubBot)
 
-### Telegram и автоматизация
+</details>
+
+<details>
+<summary><b>Telegram и автоматизация</b></summary>
 
 - [KDS Server Panel — SSH из Telegram](https://github.com/svod011929/KDS_Server_Panel)
 - [Telegram → VK Poster](https://github.com/svod011929/telegram-to-vk-poster)
@@ -142,34 +178,55 @@ Frontend      React, TypeScript, адаптивные интерфейсы
 - [Crypto Check Bot](https://github.com/svod011929/crypto-check-bot)
 - [KodoRefStarsBot](https://github.com/svod011929/KodoRefStarsBot)
 
-### Магазины и финансы
+</details>
+
+<details>
+<summary><b>Магазины и финансы</b></summary>
 
 - [KodoCashFlow](https://github.com/svod011929/KodoCashFlow)
 - [Telegram Crypto Shop](https://github.com/svod011929/telegram-crypto-shop)
 - [TalkProfit](https://github.com/svod011929/talkprofit)
 
-### Сайты
+</details>
+
+<details>
+<summary><b>Сайты</b></summary>
 
 - [KodoDrive Portfolio](https://github.com/svod011929/kododrive-portfolio)
 - [kododrive.github.io](https://github.com/svod011929/kododrive.github.io)
 
+</details>
+
+<p>
+  Профиль: <a href="https://github.com/svod011929">@svod011929</a> ·
+  Сайт: <a href="https://kododrive.ru">kododrive.ru</a> ·
+  Telegram: <a href="https://t.me/KodoDrive">@KodoDrive</a>
+</p>
+
 <!-- /kododrive-projects-block -->
 
-## Сейчас в фокусе
+---
 
-> Практичные продукты вокруг **автоматизации на Python, Telegram-платформ, backend API и VPN/серверной инфраструктуры**.
+## 🎯 Сейчас в фокусе
 
-Открыт к **фрилансу, контрактной работе, open source и техническому консалтингу**.
+> Практичные продукты вокруг **Python-автоматизации, Telegram-платформ, backend API и VPN/серверной инфраструктуры**.
+
+Открыт к **фрилансу, контрактам, open source и консалтингу**.
 
 <div align="center">
 
-### Давай сделаем что-то полезное.
+### Давай соберём что-то мощное.
 
-<a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Написать%20в%20Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://t.me/KodoDrive">
+  <img src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%B2%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+&nbsp;
+<a href="https://kododrive.ru">
+  <img src="https://img.shields.io/badge/kododrive.ru-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=110&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:7C3AED,100:06B6D4&height=120&section=footer" alt="footer" />
 
 </div>
-
