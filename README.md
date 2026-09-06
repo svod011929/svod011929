@@ -27,35 +27,31 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Hi" width="28" /> Привет, я KodoDrive
-
-Делаю **production-ready** backend, Telegram-экосистемы и VPN/серверную инфраструктуру.  
-Люблю чистую архитектуру, автоматизацию и системы, которые не разваливаются в 3 ночи.
-
-```bash
-$ whoami
-> Python Full-Stack · Automation · Infrastructure
-
-$ cat mission.txt
-> Строить полезные продукты быстро, надёжно и без лишнего шума
-```
-
-### Чем занимаюсь
-- Backend API на **FastAPI / Django / Flask**
-- Telegram на **Aiogram / Telethon**
-- Инфра: **Linux, Docker, Nginx, SSH, VPN (VLESS / Reality / Amnezia)**
-- Данные: **PostgreSQL, Redis, MongoDB**
-- Frontend: **React + TypeScript**
-
----
-
-## <img src="https://skillicons.dev/icons?i=python" width="28" /> Стек
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Hi" width="28" /> Обо мне
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,mongodb,docker,linux,nginx,git,bash,ts,react,html,css&perline=8" alt="stack" />
+  <img src="./assets/about.svg" width="100%" alt="about" />
 </div>
 
-<br>
+<br/>
+
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="terminal" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/skills.svg" width="100%" alt="skills" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,mongodb,docker,linux,nginx,git,bash,ts,react&perline=7" alt="stack" />
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -63,6 +59,7 @@ $ cat mission.txt
   <img src="https://img.shields.io/badge/AsyncSSH-111827?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/WireGuard%20%2F%20VLESS-7C3AED?style=for-the-badge&logo=wireguard&logoColor=white" />
 </p>
+
 
 ---
 
