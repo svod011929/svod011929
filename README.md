@@ -19,9 +19,8 @@
 <br>
 
 <div align="center">
-  <a href="https://kododrive.ru"><img src="https://img.shields.io/badge/Website-kododrive.ru-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:hello@kododrive.ru"><img src="https://img.shields.io/badge/Email-hello@kododrive.ru-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Telegram-@KodoDrive-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:hello@"><img src="https://img.shields.io/badge/Email-hello@-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=svod011929&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B&color=7C3AED&style=flat-square" alt="views" />
 </div>
 
@@ -60,7 +59,6 @@
   <img src="https://img.shields.io/badge/WireGuard%20%2F%20VLESS-7C3AED?style=for-the-badge&logo=wireguard&logoColor=white" />
 </p>
 
-
 ---
 
 ## 🚀 Избранные проекты
@@ -88,7 +86,6 @@
     <img src="https://img.shields.io/badge/%D0%92%D1%81%D0%B5%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
   </a>
 </p>
-
 
 ---
 
@@ -138,12 +135,15 @@
   </picture>
 </div>
 
-
 ---
 
 <!-- kododrive-projects-block -->
 
 ## 🗂️ Все проекты KodoDrive
+
+<div align="center">
+  <img src="./assets/catalog.svg" width="100%" alt="catalog" />
+</div>
 
 <details>
 <summary><b>VPN и инфраструктура</b></summary>
@@ -188,36 +188,20 @@
 
 </details>
 
-<p>
-  Профиль: <a href="https://github.com/svod011929">@svod011929</a> ·
-  Сайт: <a href="https://kododrive.ru">kododrive.ru</a> ·
-  Telegram: <a href="https://t.me/KodoDrive">@KodoDrive</a>
-</p>
-
 <!-- /kododrive-projects-block -->
 
 ---
 
 ## 🎯 Сейчас в фокусе
 
-> Практичные продукты вокруг **Python-автоматизации, Telegram-платформ, backend API и VPN/серверной инфраструктуры**.
+<div align="center">
+  <img src="./assets/focus.svg" width="100%" alt="focus" />
+</div>
 
-Открыт к **фрилансу, контрактам, open source и консалтингу**.
+<br/>
 
 <div align="center">
-
-### Давай соберём что-то мощное.
-
-<a href="https://t.me/KodoDrive">
-  <img src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%B2%20Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-&nbsp;
-<a href="https://kododrive.ru">
-  <img src="https://img.shields.io/badge/kododrive.ru-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-</a>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:7C3AED,100:06B6D4&height=120&section=footer" alt="footer" />
-
+  <a href="https://t.me/KodoDrive">
+    <img src="./assets/cta.svg" width="100%" alt="contact" />
+  </a>
 </div>
