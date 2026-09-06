@@ -118,26 +118,39 @@ $ cat mission.txt
 ## 📈 GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=svod011929&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&ring_color=7C3AED" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svod011929&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&langs_count=8" alt="langs" />
+  <img src="./assets/metrics.svg" width="100%" alt="metrics" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svod011929&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=67E8F9" alt="streak" />
+  <img height="168" src="./assets/stats.svg" alt="stats" />
+  <img height="168" src="./assets/langs.svg" alt="langs" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=svod011929&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+  <img src="./assets/streak.svg" alt="streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svod011929&bg_color=0d1117&color=67e8f9&line=a78bfa&point=06b6d4&area=true&hide_border=true" alt="activity" width="100%" />
+  <a href="https://github.com/svod011929/buryatvpn">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=svod011929&repo=buryatvpn&theme=radical&hide_border=true&bg_color=0D1117" alt="buryatvpn" />
+  </a>
+  <a href="https://github.com/svod011929/vpn-server-installer">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=svod011929&repo=vpn-server-installer&theme=radical&hide_border=true&bg_color=0D1117" alt="vpn-server-installer" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/svod011929/KDS_Server_Panel">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=svod011929&repo=KDS_Server_Panel&theme=radical&hide_border=true&bg_color=0D1117" alt="KDS_Server_Panel" />
+  </a>
+  <a href="https://github.com/svod011929/3x-ui-auto-installer">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=svod011929&repo=3x-ui-auto-installer&theme=radical&hide_border=true&bg_color=0D1117" alt="3x-ui-auto-installer" />
+  </a>
 </div>
 
 <div align="center">
@@ -147,6 +160,7 @@ $ cat mission.txt
     <img alt="snake" src="https://raw.githubusercontent.com/svod011929/svod011929/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
 
 ---
 
