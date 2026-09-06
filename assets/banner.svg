@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="45%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.05"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <circle cx="980" cy="40" r="140" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="160" cy="280" r="120" fill="#38BDF8" fill-opacity="0.08" filter="url(#soft)"/>
+  <path d="M0,250 C200,210 350,280 520,240 C700,195 860,255 1200,210 L1200,320 L0,320 Z" fill="#0F172A" fill-opacity="0.55"/>
+  <text x="80" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#F8FAFC">KodoDrive</text>
+  <rect x="80" y="148" width="220" height="4" rx="2" fill="url(#accent)"/>
+  <text x="80" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#94A3B8">Python · Automation · Infrastructure</text>
+  <text x="80" y="230" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#64748B">backend · telegram · vpn · devops</text>
+</svg>
