@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=KodoDrive&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Python%20Full-Stack%20Developer%20%E2%80%A2%20Automation%20%E2%80%A2%20Infrastructure&descSize=17&descAlignY=57" alt="KodoDrive header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=KodoDrive&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Python%20Full-Stack%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%E2%80%A2%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%E2%80%A2%20%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0&descSize=17&descAlignY=57" alt="KodoDrive header" />
 
-### Building reliable products, automation and infrastructure with Python
+### Надёжные продукты, автоматизация и инфраструктура на Python
 
-I create production-ready **backend services**, **Telegram bots**, **VPN infrastructure** and **developer tools**.
-Focused on clean architecture, automation and systems that are easy to operate and scale.
+Делаю production-ready **backend-сервисы**, **Telegram-ботов**, **VPN-инфраструктуру** и **инструменты для разработчиков**.
+Фокус на чистой архитектуре, автоматизации и системах, которые удобно сопровождать и масштабировать.
 
 <p>
   <a href="https://kododrive.ru"><img src="https://img.shields.io/badge/Website-kododrive.ru-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -18,16 +18,16 @@ Focused on clean architecture, automation and systems that are easy to operate a
 
 ---
 
-## About
+## Обо мне
 
-- **5+ years** building Python-based products and automation
-- Backend APIs with **FastAPI, Django and Flask**
-- Telegram ecosystems with **Aiogram and Telethon**
-- Infrastructure automation across **Linux, Docker, Nginx, SSH and VPN stacks**
-- Databases and caching with **PostgreSQL, Redis and MongoDB**
-- Frontend work with **React, TypeScript and modern CSS**
+- **5+ лет** в продуктах и автоматизации на Python
+- Backend API на **FastAPI, Django и Flask**
+- Telegram-экосистемы на **Aiogram и Telethon**
+- Автоматизация инфраструктуры: **Linux, Docker, Nginx, SSH и VPN-стеки**
+- Базы данных и кэш: **PostgreSQL, Redis и MongoDB**
+- Frontend: **React, TypeScript и современный CSS**
 
-## Core stack
+## Основной стек
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,redis,mongodb,docker,linux,nginx,git,bash,ts,react,html,css&perline=8" alt="Tech stack" />
@@ -44,16 +44,16 @@ Focused on clean architecture, automation and systems that are easy to operate a
 
 ---
 
-## Selected projects
+## Избранные проекты
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [BuryatVPN](https://github.com/svod011929/buryatvpn)
-**VPN service + Telegram ecosystem**
+**VPN-сервис + экосистема Telegram**
 
-User management, Telegram integration, admin tooling and infrastructure automation for a modern VPN service.
+Управление пользователями, интеграция с Telegram, админ-инструменты и автоматизация инфраструктуры для современного VPN-сервиса.
 
 `Python` `Aiogram` `Flask` `PostgreSQL` `Docker`
 
@@ -61,9 +61,9 @@ User management, Telegram integration, admin tooling and infrastructure automati
 <td width="50%" valign="top">
 
 ### [KDS Server Panel](https://github.com/svod011929/KDS_Server_Panel)
-**Server management from Telegram**
+**Управление сервером из Telegram**
 
-Remote SSH operations, file management and system administration through a compact Telegram interface.
+Удалённые SSH-операции, работа с файлами и системное администрирование через компактный Telegram-интерфейс.
 
 `Python` `AsyncSSH` `Aiohttp` `PostgreSQL` `Docker`
 
@@ -73,9 +73,9 @@ Remote SSH operations, file management and system administration through a compa
 <td width="50%" valign="top">
 
 ### [Telegram to VK Poster](https://github.com/svod011929/telegram-to-vk-poster)
-**Reliable cross-platform publishing automation**
+**Надёжная кросс-платформенная публикация**
 
-A focused service that republishes Telegram channel content to VK with state tracking, media support and hardened systemd deployment.
+Сервис, который републикует контент Telegram-канала во VK: учёт состояния, поддержка медиа и устойчивый деплой через systemd.
 
 `Python` `Telethon` `VK API` `Systemd` `Linux`
 
@@ -83,9 +83,9 @@ A focused service that republishes Telegram channel content to VK with state tra
 <td width="50%" valign="top">
 
 ### [3X-UI Auto Installer](https://github.com/svod011929/3x-ui-auto-installer)
-**VPN infrastructure automation**
+**Автоматизация VPN-инфраструктуры**
 
-Automated deployment and system tuning for 3X-UI and VLESS Reality environments on Linux servers.
+Автоматическое развёртывание и тюнинг системы для 3X-UI и VLESS Reality на Linux-серверах.
 
 `Bash` `Linux` `3X-UI` `VLESS` `UFW`
 
@@ -95,14 +95,14 @@ Automated deployment and system tuning for 3X-UI and VLESS Reality environments 
 
 ---
 
-## What I build
+## Что я делаю
 
 ```text
-Backend       APIs, services, integrations, admin systems
-Automation    Telegram bots, parsers, workflows, background jobs
-Infra         VPN services, Linux servers, SSH automation, Docker
-Data          PostgreSQL, Redis, MongoDB, external APIs
-Frontend      React, TypeScript, responsive interfaces
+Backend       API, сервисы, интеграции, админ-системы
+Automation    Telegram-боты, парсеры, воркфлоу, фоновые задачи
+Infra         VPN-сервисы, Linux-серверы, SSH-автоматизация, Docker
+Data          PostgreSQL, Redis, MongoDB, внешние API
+Frontend      React, TypeScript, адаптивные интерфейсы
 ```
 
 ---
@@ -116,17 +116,17 @@ Frontend      React, TypeScript, responsive interfaces
 
 ---
 
-## Current focus
+## Сейчас в фокусе
 
-> Building practical products around **Python automation, Telegram platforms, backend APIs and VPN/server infrastructure**.
+> Практичные продукты вокруг **автоматизации на Python, Telegram-платформ, backend API и VPN/серверной инфраструктуры**.
 
-Open to **freelance projects, contract work, open source and technical consulting**.
+Открыт к **фрилансу, контрактной работе, open source и техническому консалтингу**.
 
 <div align="center">
 
-### Let’s build something useful.
+### Давай сделаем что-то полезное.
 
-<a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://t.me/KodoDrive"><img src="https://img.shields.io/badge/Написать%20в%20Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 <br><br>
 
