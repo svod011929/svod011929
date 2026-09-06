@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="22" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#E6EDF3">Чем занимаюсь</text>
+
+  <g transform="translate(0,40)">
+    <rect width="280" height="70" rx="12" fill="url(#panel)" stroke="#30363D"/>
+    <rect x="0" y="0" width="5" height="70" rx="2" fill="#38BDF8"/>
+    <text x="20" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#38BDF8">Backend API</text>
+    <text x="20" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">FastAPI · Django · Flask</text>
+  </g>
+  <g transform="translate(296,40)">
+    <rect width="280" height="70" rx="12" fill="url(#panel)" stroke="#30363D"/>
+    <rect x="0" y="0" width="5" height="70" rx="2" fill="#26A5E4"/>
+    <text x="20" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#26A5E4">Telegram</text>
+    <text x="20" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">Aiogram · Telethon</text>
+  </g>
+  <g transform="translate(592,40)">
+    <rect width="280" height="70" rx="12" fill="url(#panel)" stroke="#30363D"/>
+    <rect x="0" y="0" width="5" height="70" rx="2" fill="#A78BFA"/>
+    <text x="20" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#A78BFA">Infra</text>
+    <text x="20" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">Linux · Docker · Nginx · SSH · VPN</text>
+  </g>
+  <g transform="translate(148,130)">
+    <rect width="280" height="70" rx="12" fill="url(#panel)" stroke="#30363D"/>
+    <rect x="0" y="0" width="5" height="70" rx="2" fill="#34D399"/>
+    <text x="20" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#34D399">Data</text>
+    <text x="20" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">PostgreSQL · Redis · MongoDB</text>
+  </g>
+  <g transform="translate(444,130)">
+    <rect width="280" height="70" rx="12" fill="url(#panel)" stroke="#30363D"/>
+    <rect x="0" y="0" width="5" height="70" rx="2" fill="#F472B6"/>
+    <text x="20" y="30" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F472B6">Frontend</text>
+    <text x="20" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">React · TypeScript</text>
+  </g>
+</svg>
