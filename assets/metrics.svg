@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="180" viewBox="0 0 1100 180">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="180" rx="16" fill="url(#bg)" stroke="#30363D"/>
+  <rect x="0" y="0" width="1100" height="4" fill="url(#line)"/>
+  <text x="40" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#67E8F9">// github metrics</text>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="80" y="110" font-size="42" font-weight="700" fill="#F472B6">35</text>
+    <text x="80" y="140" font-size="14" fill="#8B949E">публичных репо</text>
+
+    <text x="320" y="110" font-size="42" font-weight="700" fill="#67E8F9">44</text>
+    <text x="320" y="140" font-size="14" fill="#8B949E">звёзд всего</text>
+
+    <text x="540" y="110" font-size="42" font-weight="700" fill="#A78BFA">8</text>
+    <text x="540" y="140" font-size="14" fill="#8B949E">фолловеров</text>
+
+    <text x="760" y="110" font-size="42" font-weight="700" fill="#34D399">5+</text>
+    <text x="760" y="140" font-size="14" fill="#8B949E">лет в Python</text>
+  </g>
+</svg>
