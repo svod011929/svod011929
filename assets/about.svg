@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="16" fill="url(#bg)" stroke="#30363D"/>
+  <rect x="0" y="0" width="900" height="4" fill="url(#accent)"/>
+  <text x="36" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#E6EDF3">Привет, я KodoDrive</text>
+  <text x="36" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#C9D1D9">Делаю production-ready backend, Telegram-экосистемы</text>
+  <text x="36" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#C9D1D9">и VPN/серверную инфраструктуру.</text>
+  <text x="36" y="156" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8B949E">Люблю чистую архитектуру, автоматизацию и системы,</text>
+  <text x="36" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8B949E">которые не разваливаются в 3 ночи.</text>
+</svg>
